@@ -1,0 +1,29 @@
+idan0610
+305681132
+Idan Refaeli
+
+I discussed the exercise with: Eyel Cohen, Amit Tropp.
+
+=============================
+=  README for ex4  =
+=============================
+
+usage: python3.4 nim.py
+
+==================
+=  Description:  =
+==================
+1. nim.py - A simple nim game
+2. README - This file
+
+=============================
+=  List of submitted files: =
+=============================
+
+README		This file
+nim.py
+
+======================
+=  Special Comments  =
+======================
+None
